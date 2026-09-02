@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Sancho</string>
+    <string name="btn_order">Orden</string>
+    <string name="imageView_logo">Logo</string>
+    <string name="hello_world">Hola mundo</string>
 </resources>
