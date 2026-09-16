@@ -1,2 +1,8 @@
-package edu.upb.tetris.common 
+package edu.upb.tetris.common
 
+enum class Orientation {
+    UP,
+    RIGHT,
+    DOWN,
+    LEFT
+}

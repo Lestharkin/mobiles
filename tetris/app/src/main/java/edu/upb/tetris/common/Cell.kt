@@ -1,4 +1,4 @@
-package edu.upb.tetris
+package edu.upb.tetris.common
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -13,7 +13,7 @@ import androidx.compose.ui.unit.dp
 @Composable
 fun Cell(
     modifier: Modifier = Modifier,
-    cellSize: Int = 30,
+    cellSize: Int = 24,
     color: Color = Color.DarkGray
 ) {
     Box (
